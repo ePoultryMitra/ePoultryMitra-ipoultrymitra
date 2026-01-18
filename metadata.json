@@ -1,0 +1,8 @@
+{
+  "name": "Poultry Mitra",
+  "description": "A smart assistant for poultry farmers providing real-time advice, health monitoring, and farm management tools using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
